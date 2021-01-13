@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome To Mangaravite</title>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173927858-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173927858-1');
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="css/style.css" rel="stylesheet">
+</head>
+<body>
+<a href=https://www.webnovel.com/book/hidden-marriage-with-my-imperfect-ceo_17881455306500805">
+<img class="bgimg-1" src="https://mangaravite.com/image/MF1.jpg"></a>
+<!--  <div class="caption">
+    <a href="https://bit.ly/ad21aug" class="button">Read Manga</a>
+  </div>
+</div>-->
+
+
+</body>
+</html>
